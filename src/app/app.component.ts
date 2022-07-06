@@ -14,9 +14,9 @@ export class AppComponent {
     this.newsFeedPosts = [
       {
         profilePhoto: "assets/dog.jpg",
-        name: "name1",
+        name: "Sr Perro",
         date: "1 hours ago",
-        postText: "Text1",
+        postText: "Hola tio, que pasa? soy en el park",
         postPhoto: "assets/nature.jpg",
         likeCount: 1,
       } as PostModel,
